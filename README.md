@@ -5,7 +5,7 @@
 🎓 &nbsp;I'm currently in High School (12th grade).\
 ✍️ &nbsp;In my free time, I pursue Graphic Design, languages and Gaming
 
-<img alt="Night Coding" src="https://c.tenor.com/V84-IyvPnXEAAAAi/spin-fox-spin.gif align="right"/>
+<img alt="Night Coding" src="https://c.tenor.com/V84-IyvPnXEAAAAi/spin-fox-spin.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
