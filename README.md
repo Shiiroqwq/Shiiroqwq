@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently in High School (13th grade).\
-✍️ &nbsp;In my free time, I pursue Graphic Design, languages and Gaming
-🏳️‍🌈🏳️‍⚧️ &nbsp; They / Them
+✍️ &nbsp;In my free time, I pursue Graphic Design, languages and Gaming.\
+🏳️‍🌈🏳️‍⚧️ &nbsp; They / Them.\
 
 <img alt="Night Coding" src="https://i.imgur.com/6cNYH5C.gif" align="right"/>
 
