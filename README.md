@@ -25,8 +25,4 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://egirl.systems"><img src="https://img.shields.io/badge/-egirl.systems-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-</p>
-
 ⭐️ From [Shiiro](https://github.com/Shiiroqwq)
